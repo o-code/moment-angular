@@ -1,0 +1,8 @@
+{
+  "name": "moment-angular",
+  "description": "An Angular wrapper Moment.js: parse, validate, manipulate, and display dates in JavaScript.",
+  "main": ["moment.module.js"],
+  "dependencies": {
+    "moment": "^2.15.1"
+  }
+}
